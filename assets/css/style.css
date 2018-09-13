@@ -1,0 +1,22 @@
+.container {
+	background-color: lightgray;
+	color: black;
+}
+
+#TrueNumber{
+	color: red;
+	font: 800;
+}
+
+#CystalBox{
+	height: 400px;
+}
+
+div {
+	text-align: center;
+	padding: 60px;
+}
+
+button {
+	size: 200px,300px,200px,300px;
+}
